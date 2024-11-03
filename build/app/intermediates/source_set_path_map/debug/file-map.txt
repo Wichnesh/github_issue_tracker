@@ -1,0 +1,30 @@
+com.example.github_issue_tracker.app-jetified-activity-1.8.1-0 /Users/vigneshselvaraj/.gradle/caches/transforms-3/003c9ce72ac37ff4fd9fc649b156eac7/transformed/jetified-activity-1.8.1/res
+com.example.github_issue_tracker.app-jetified-tracing-1.2.0-1 /Users/vigneshselvaraj/.gradle/caches/transforms-3/0fecef5bfb1f1823edc59c7f9a7b9a13/transformed/jetified-tracing-1.2.0/res
+com.example.github_issue_tracker.app-lifecycle-viewmodel-2.7.0-2 /Users/vigneshselvaraj/.gradle/caches/transforms-3/1d62b8d2beed7bb708ebe4e515c4c34f/transformed/lifecycle-viewmodel-2.7.0/res
+com.example.github_issue_tracker.app-fragment-1.7.1-3 /Users/vigneshselvaraj/.gradle/caches/transforms-3/41aff95dd6476a2f15f42b8ce6ee2c7b/transformed/fragment-1.7.1/res
+com.example.github_issue_tracker.app-jetified-core-1.0.0-4 /Users/vigneshselvaraj/.gradle/caches/transforms-3/48a48525ac8775ee523423d0eb965996/transformed/jetified-core-1.0.0/res
+com.example.github_issue_tracker.app-core-runtime-2.2.0-5 /Users/vigneshselvaraj/.gradle/caches/transforms-3/492f2ec88be4dba9ec6018a4d0782f7d/transformed/core-runtime-2.2.0/res
+com.example.github_issue_tracker.app-lifecycle-livedata-2.7.0-6 /Users/vigneshselvaraj/.gradle/caches/transforms-3/525137ebd371a2a906e97d2f89673684/transformed/lifecycle-livedata-2.7.0/res
+com.example.github_issue_tracker.app-jetified-annotation-experimental-1.4.0-7 /Users/vigneshselvaraj/.gradle/caches/transforms-3/54ca193da8c274cdd5cde2c93623f3d9/transformed/jetified-annotation-experimental-1.4.0/res
+com.example.github_issue_tracker.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-8 /Users/vigneshselvaraj/.gradle/caches/transforms-3/59c82d09f562a0606252b44d65b5e16b/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+com.example.github_issue_tracker.app-browser-1.8.0-9 /Users/vigneshselvaraj/.gradle/caches/transforms-3/88e525eff8d8a596c648a3a89681f16a/transformed/browser-1.8.0/res
+com.example.github_issue_tracker.app-jetified-core-ktx-1.13.1-10 /Users/vigneshselvaraj/.gradle/caches/transforms-3/8d30beffc62440695fca07caa0ce681b/transformed/jetified-core-ktx-1.13.1/res
+com.example.github_issue_tracker.app-jetified-savedstate-1.2.1-11 /Users/vigneshselvaraj/.gradle/caches/transforms-3/93dc0b43a7d44727b810a20c783a711c/transformed/jetified-savedstate-1.2.1/res
+com.example.github_issue_tracker.app-lifecycle-runtime-2.7.0-12 /Users/vigneshselvaraj/.gradle/caches/transforms-3/abb3f251eb731eb42dce441e629aac0a/transformed/lifecycle-runtime-2.7.0/res
+com.example.github_issue_tracker.app-jetified-lifecycle-process-2.7.0-13 /Users/vigneshselvaraj/.gradle/caches/transforms-3/b7f109b32e9efa454907779e458109f1/transformed/jetified-lifecycle-process-2.7.0/res
+com.example.github_issue_tracker.app-jetified-window-1.2.0-14 /Users/vigneshselvaraj/.gradle/caches/transforms-3/c30f5a33867bfa3692bbbc00c977a7a8/transformed/jetified-window-1.2.0/res
+com.example.github_issue_tracker.app-jetified-lifecycle-livedata-core-ktx-2.7.0-15 /Users/vigneshselvaraj/.gradle/caches/transforms-3/c4fe36d76869b195857377020e70845d/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+com.example.github_issue_tracker.app-lifecycle-livedata-core-2.7.0-16 /Users/vigneshselvaraj/.gradle/caches/transforms-3/d584067a4ca8822b6ff28498c27f2df8/transformed/lifecycle-livedata-core-2.7.0/res
+com.example.github_issue_tracker.app-core-1.13.1-17 /Users/vigneshselvaraj/.gradle/caches/transforms-3/dc26ce842297e3a1fe7a17e7035bf571/transformed/core-1.13.1/res
+com.example.github_issue_tracker.app-jetified-window-java-1.2.0-18 /Users/vigneshselvaraj/.gradle/caches/transforms-3/e1167344536b56cd5929a66adc17a921/transformed/jetified-window-java-1.2.0/res
+com.example.github_issue_tracker.app-jetified-startup-runtime-1.1.1-19 /Users/vigneshselvaraj/.gradle/caches/transforms-3/eaa7510128b09b3255ba6343cbc7ff86/transformed/jetified-startup-runtime-1.1.1/res
+com.example.github_issue_tracker.app-jetified-profileinstaller-1.3.1-20 /Users/vigneshselvaraj/.gradle/caches/transforms-3/fa770381db108a1be119c2b74739a6f7/transformed/jetified-profileinstaller-1.3.1/res
+com.example.github_issue_tracker.app-debug-21 /Users/vigneshselvaraj/Office Code repository/Github_issue_tracker/android/app/src/debug/res
+com.example.github_issue_tracker.app-main-22 /Users/vigneshselvaraj/Office Code repository/Github_issue_tracker/android/app/src/main/res
+com.example.github_issue_tracker.app-pngs-23 /Users/vigneshselvaraj/Office Code repository/Github_issue_tracker/build/app/generated/res/pngs/debug
+com.example.github_issue_tracker.app-resValues-24 /Users/vigneshselvaraj/Office Code repository/Github_issue_tracker/build/app/generated/res/resValues/debug
+com.example.github_issue_tracker.app-rs-25 /Users/vigneshselvaraj/Office Code repository/Github_issue_tracker/build/app/generated/res/rs/debug
+com.example.github_issue_tracker.app-mergeDebugResources-26 /Users/vigneshselvaraj/Office Code repository/Github_issue_tracker/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.github_issue_tracker.app-mergeDebugResources-27 /Users/vigneshselvaraj/Office Code repository/Github_issue_tracker/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.github_issue_tracker.app-merged_res-28 /Users/vigneshselvaraj/Office Code repository/Github_issue_tracker/build/app/intermediates/merged_res/debug
+com.example.github_issue_tracker.app-packaged_res-29 /Users/vigneshselvaraj/Office Code repository/Github_issue_tracker/build/url_launcher_android/intermediates/packaged_res/debug
